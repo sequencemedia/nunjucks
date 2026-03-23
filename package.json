@@ -16,7 +16,7 @@
   "dependencies": {
     "@frctl/fractal": "^1.5.15",
     "bluebird": "^3.7.2",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.23"
   },
   "peerDependencies": {
     "nunjucks": "^2.4.2"
