@@ -20,5 +20,9 @@
   },
   "peerDependencies": {
     "nunjucks": "^2.4.2"
+  },
+  "allowScripts": {
+    "core-js@2.6.12": true,
+    "fsevents@1.2.13": true
   }
 }
